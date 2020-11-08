@@ -1,2 +1,3 @@
 prieto_david
 Afegeixo linea desde el respositori local
+Edgar Espinoza
